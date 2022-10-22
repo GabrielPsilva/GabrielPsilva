@@ -17,17 +17,17 @@
   <img align="center" alt="Gab-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Gab-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img height="160" width="250" align="right" alt="gif" src="[https://steamuserimages-a.akamaihd.net/ugc/538508994088288709/CCB4FA926C23DF26DCF17AF63E2F7FEBE2BA7933/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://blog.jitter.video/content/images/2021/12/Jitter-Pink-perfect-loop-cubes.gif)">
 </div>
   
   ##
-
- <!--
-<div>
   
+  
+
+
+<div>
+  <a href="https://www.linkedin.com/in/gabrielpaulasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
   
-
+ <!--
 **GabrielPsilva/GabrielPsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
