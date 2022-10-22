@@ -1,8 +1,8 @@
 ## Opa, Seja bem vindo! Me chamo Gabriel.
 
 - 🐍 Estudando python
-- 🖥️ Cursando Análise e de desenvolvimento de sistemas
-- ✈️ Estágiario na força aérea brasileira
+- 🖥️ Cursando análise e de desenvolvimento de sistemas
+- ✈️ Estágiario na caixa de financiamento imobiliário da aeronáutica (CFIAe)
 
 <div>
   <a href="https://beacons.ai/GabrielPsilva">
