@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Silva
+## Opa, Seja bem vindo! Me chamo Gabriel.
 
 - 🐍 Estudando python
 - 🖥️ Cursando Análise e de desenvolvimento de sistemas
