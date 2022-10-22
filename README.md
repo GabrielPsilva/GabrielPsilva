@@ -1,10 +1,8 @@
 ## Olá! Eu sou o Gabriel Silva
 
-<!--
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript 
-- 😄 Pronouns: ela/dela
--->
+- 🐍 Estudando python
+- 🖥️ Cursando Análise e de desenvolvimento de sistemas
+- ✈️ Estágiario na força aérea brasileira
 
 <div>
   <a href="https://beacons.ai/GabrielPsilva">
