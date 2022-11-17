@@ -2,7 +2,7 @@
 
 - 🐍 Estudando python
 - 🖥️ Cursando análise e de desenvolvimento de sistemas
-- ✈️ Estágiario na caixa de financiamento imobiliário da aeronáutica (CFIAe)
+- ✈️ Estagiário na caixa de financiamento imobiliário da aeronáutica (CFIAe)
 
 <div>
   <a href="https://beacons.ai/GabrielPsilva">
